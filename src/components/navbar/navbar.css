@@ -1,0 +1,23 @@
+.topNav {
+  background-color: white;
+  width: 100%;
+  position: sticky;
+  align-items: left;
+  display: flex;
+  height: 75px;
+  font-family: Nunito;
+  z-index: 100;
+}
+
+body{
+    /* background-color: #05242E; */
+    background-color: white;
+}
+/* h1 {
+  font-family: Nunito;
+  font-size: 72px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 43.5px;
+} */
